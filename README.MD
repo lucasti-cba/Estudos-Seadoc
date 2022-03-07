@@ -3,7 +3,7 @@
 
 --> Models
   --> Autenticação
-    ---> Adicinar Autenticação via JWT 
+    ---> Adicionar Autenticação via JWT 
     ---> Refresh and Get Token
   --> Caixas
       ---> Adicionar Controles de conversão de string em base64 para imagens
